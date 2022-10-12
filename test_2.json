@@ -1,0 +1,808 @@
+{
+  "items": [
+    {
+      "tags": [
+        "python",
+        "tkinter"
+      ],
+      "owner": {
+        "account_id": 25368822,
+        "reputation": 15,
+        "user_id": 19182983,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/4af6edf7ff45791ea5a8f9bb3c9ab0e6?s=256&d=identicon&r=PG",
+        "display_name": "EavenCS",
+        "link": "https://stackoverflow.com/users/19182983/eavencs"
+      },
+      "is_answered": false,
+      "view_count": 21,
+      "closed_date": 1665485343,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1665601834,
+      "creation_date": 1665430990,
+      "last_edit_date": 1665601834,
+      "question_id": 74019994,
+      "link": "https://stackoverflow.com/questions/74019994/add-button-over-image-background",
+      "closed_reason": "Duplicate",
+      "title": "Add button over image background"
+    },
+    {
+      "tags": [
+        "python",
+        "kivy",
+        "kivymd"
+      ],
+      "owner": {
+        "account_id": 25336285,
+        "reputation": 1,
+        "user_id": 19155381,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/AATXAJywucyQpUNfRjB8H98yd4wbylmf5igF5AOp6kqU=k-s256",
+        "display_name": "Abylaikhan Zhumanov",
+        "link": "https://stackoverflow.com/users/19155381/abylaikhan-zhumanov"
+      },
+      "is_answered": false,
+      "view_count": 20,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1665601799,
+      "creation_date": 1665575463,
+      "question_id": 74041368,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/74041368/kivy-attributeerror-super-object-has-no-attribute-getattr-having-unwa",
+      "title": "Kivy: AttributeError: &#39;super&#39; object has no attribute &#39;__getattr__&#39;, having unwanted behavioral"
+    },
+    {
+      "tags": [
+        "python",
+        "android",
+        "adb"
+      ],
+      "owner": {
+        "account_id": 26594588,
+        "reputation": 1,
+        "user_id": 20217192,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/ALm5wu2o9-efGv9FuX7HTeebw729eeDc1w9e4P6XU23U=k-s256",
+        "display_name": "Jakub Cwiertka",
+        "link": "https://stackoverflow.com/users/20217192/jakub-cwiertka"
+      },
+      "is_answered": false,
+      "view_count": 17,
+      "answer_count": 2,
+      "score": 0,
+      "last_activity_date": 1665601790,
+      "creation_date": 1665559002,
+      "question_id": 74037839,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/74037839/send-complex-swipes-to-android-with-adb-python-no-sendevent",
+      "title": "Send complex swipes to Android with Adb/Python (no sendevent)"
+    },
+    {
+      "tags": [
+        "python",
+        "networkx"
+      ],
+      "owner": {
+        "account_id": 12202113,
+        "reputation": 23,
+        "user_id": 8906158,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/cdcfb4f4806f52e5b90133d6deadeff1?s=256&d=identicon&r=PG&f=1",
+        "display_name": "Ana_1960",
+        "link": "https://stackoverflow.com/users/8906158/ana-1960"
+      },
+      "is_answered": false,
+      "view_count": 25,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1665601581,
+      "creation_date": 1665488302,
+      "last_edit_date": 1665601581,
+      "question_id": 74027490,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/74027490/find-the-persons-with-the-same-number-of-neighbor-friends-graph",
+      "title": "find the persons with the same number of neighbor friends (Graph)"
+    },
+    {
+      "tags": [
+        "python",
+        "python-3.x",
+        "discord.py",
+        "bots"
+      ],
+      "owner": {
+        "account_id": 26587899,
+        "reputation": 1,
+        "user_id": 20211563,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/OQREV.jpg?s=256&g=1",
+        "display_name": "AndrewJhones",
+        "link": "https://stackoverflow.com/users/20211563/andrewjhones"
+      },
+      "is_answered": true,
+      "view_count": 46,
+      "answer_count": 3,
+      "score": 0,
+      "last_activity_date": 1665601433,
+      "creation_date": 1665477609,
+      "last_edit_date": 1665537367,
+      "question_id": 74025292,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/74025292/why-doesnt-my-discord-bot-respond-to-any-command-that-i-give-in-the-chat",
+      "title": "Why doesn&#39;t my discord bot respond to any command that I give in the chat"
+    },
+    {
+      "tags": [
+        "python",
+        "python-3.x",
+        "mypy"
+      ],
+      "owner": {
+        "account_id": 4731033,
+        "reputation": 137,
+        "user_id": 3826668,
+        "user_type": "registered",
+        "accept_rate": 67,
+        "profile_image": "https://www.gravatar.com/avatar/?s=256&d=identicon&r=PG&f=1",
+        "display_name": "user3826668",
+        "link": "https://stackoverflow.com/users/3826668/user3826668"
+      },
+      "is_answered": false,
+      "view_count": 29,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1665601273,
+      "creation_date": 1665517536,
+      "last_edit_date": 1665572872,
+      "question_id": 74033359,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/74033359/mypy-type-check-variable-with-class-type-assigned-none",
+      "title": "MyPy Type Check variable with class type assigned None"
+    },
+    {
+      "tags": [
+        "python",
+        "css",
+        "pandas",
+        "dataframe"
+      ],
+      "owner": {
+        "account_id": 23034661,
+        "reputation": 301,
+        "user_id": 19053778,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GiTE_pRJZqH1iGWCXFeeKnWwNpKFnht60ud3jU=k-s256",
+        "display_name": "ROO",
+        "link": "https://stackoverflow.com/users/19053778/roo"
+      },
+      "is_answered": false,
+      "view_count": 20,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1665601266,
+      "creation_date": 1665573846,
+      "last_edit_date": 1665583760,
+      "question_id": 74041004,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/74041004/unable-to-center-cell-values-on-a-table-using-pd-style",
+      "title": "Unable to center cell values on a table using pd.style"
+    },
+    {
+      "tags": [
+        "python",
+        "matplotlib"
+      ],
+      "owner": {
+        "account_id": 24759839,
+        "reputation": 1,
+        "user_id": 18644387,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/AATXAJzGV-efU8nV39Hvsln_DsANk9zS5sBchCRcOorr=k-s256",
+        "display_name": "Thomas",
+        "link": "https://stackoverflow.com/users/18644387/thomas"
+      },
+      "is_answered": true,
+      "view_count": 20,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1665601008,
+      "creation_date": 1665575984,
+      "last_edit_date": 1665601008,
+      "question_id": 74041472,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/74041472/last-tick-label-not-showing",
+      "title": "Last tick label not showing?"
+    },
+    {
+      "tags": [
+        "python",
+        "python-3.x"
+      ],
+      "owner": {
+        "account_id": 26371027,
+        "reputation": 1,
+        "user_id": 20025714,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/ffd108fbcb8ebe55b8f4a91a645e06af?s=256&d=identicon&r=PG",
+        "display_name": "Yasmin Archibald",
+        "link": "https://stackoverflow.com/users/20025714/yasmin-archibald"
+      },
+      "is_answered": false,
+      "view_count": 31,
+      "closed_date": 1665554947,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1665600808,
+      "creation_date": 1665552487,
+      "last_edit_date": 1665600808,
+      "question_id": 74036880,
+      "link": "https://stackoverflow.com/questions/74036880/simple-built-in-python-calculations-going-awry-a-bug-in-using-the-variable",
+      "closed_reason": "Duplicate",
+      "title": "SImple Built-In Python Calculations going Awry (a bug in using the _ variable)"
+    },
+    {
+      "tags": [
+        "python",
+        "kivy",
+        "kivymd"
+      ],
+      "owner": {
+        "account_id": 22840431,
+        "reputation": 1,
+        "user_id": 16987533,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/bf4889edb25af6d67213342735bb9975?s=256&d=identicon&r=PG",
+        "display_name": "ebarrios",
+        "link": "https://stackoverflow.com/users/16987533/ebarrios"
+      },
+      "is_answered": false,
+      "view_count": 31,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1665600211,
+      "creation_date": 1665429191,
+      "last_edit_date": 1665600211,
+      "question_id": 74019717,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/74019717/solved-read-comments-attributeerror-databasewindow-object-has-no-attribute",
+      "title": "SOLVED read comments :: AttributeError: &#39;databaseWindow&#39; object has no attribute &#39;menu&#39; , in KivyMD"
+    },
+    {
+      "tags": [
+        "python",
+        "python-3.x",
+        "regex"
+      ],
+      "owner": {
+        "account_id": 26220383,
+        "reputation": 248,
+        "user_id": 19897916,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/5979e457c9fac2d0650a0a60e8f85f6c?s=256&d=identicon&r=PG",
+        "display_name": "ss3387",
+        "link": "https://stackoverflow.com/users/19897916/ss3387"
+      },
+      "is_answered": true,
+      "view_count": 32,
+      "accepted_answer_id": 74045209,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1665600011,
+      "creation_date": 1665573837,
+      "last_edit_date": 1665600011,
+      "question_id": 74041000,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/74041000/best-regex-pattern-to-replace-input-function-from-a-separate-python-file",
+      "title": "Best regex pattern to replace input function from a separate python file"
+    },
+    {
+      "tags": [
+        "python",
+        "csv",
+        "modifier"
+      ],
+      "owner": {
+        "account_id": 26601036,
+        "reputation": 1,
+        "user_id": 20222680,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/ALm5wu34LJqes5chdhBj9UkTN_InySJFtg_9AGLPANnl=k-s256",
+        "display_name": "Alexandre Th&#233;baud",
+        "link": "https://stackoverflow.com/users/20222680/alexandre-th%c3%a9baud"
+      },
+      "is_answered": false,
+      "view_count": 20,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1665599819,
+      "creation_date": 1665581339,
+      "question_id": 74042686,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/74042686/how-to-replace-a-special-string-character-pattern-using-python-in-csv-file",
+      "title": "How to replace a special string character pattern using python in csv file"
+    },
+    {
+      "tags": [
+        "python"
+      ],
+      "owner": {
+        "account_id": 26591812,
+        "reputation": 21,
+        "user_id": 20214907,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/ALm5wu1GYYHLFvI6ASQdJrftYpcXgJKu5z2ENmbVcnrq=k-s256",
+        "display_name": "boham",
+        "link": "https://stackoverflow.com/users/20214907/boham"
+      },
+      "is_answered": true,
+      "view_count": 57,
+      "answer_count": 3,
+      "score": 2,
+      "last_activity_date": 1665599524,
+      "creation_date": 1665502700,
+      "last_edit_date": 1665560066,
+      "question_id": 74030680,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/74030680/compare-two-coordinates-represented-as-complex-numbers-if-they-are-within-1-1",
+      "title": "Compare two coordinates represented as complex numbers if they are within (1,1) of each other"
+    },
+    {
+      "tags": [
+        "python",
+        "excel",
+        "pandas",
+        "dataframe",
+        "pysimplegui"
+      ],
+      "owner": {
+        "account_id": 26474227,
+        "reputation": 1,
+        "user_id": 20114387,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/mPDQA.jpg?s=256&g=1",
+        "display_name": "mcybulski3",
+        "link": "https://stackoverflow.com/users/20114387/mcybulski3"
+      },
+      "is_answered": false,
+      "view_count": 10,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1665599436,
+      "creation_date": 1665578832,
+      "last_edit_date": 1665599436,
+      "question_id": 74042085,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/74042085/pysimplegui-to-use-pandas-imported-excel-file-to-auto-update-other-fields",
+      "title": "PYSIMPLEGUI to use Pandas imported excel file to auto update other fields"
+    },
+    {
+      "tags": [
+        "python",
+        "pandas",
+        "dataframe"
+      ],
+      "owner": {
+        "account_id": 19520761,
+        "reputation": 17636,
+        "user_id": 14282714,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/2030282b744f8bf9669705296a503c4d?s=256&d=identicon&r=PG&f=1",
+        "display_name": "Quinten",
+        "link": "https://stackoverflow.com/users/14282714/quinten"
+      },
+      "is_answered": true,
+      "view_count": 72,
+      "accepted_answer_id": 74036448,
+      "answer_count": 4,
+      "score": 3,
+      "last_activity_date": 1665599282,
+      "creation_date": 1665507409,
+      "question_id": 74031620,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/74031620/calculate-the-slope-for-every-n-days-per-group",
+      "title": "Calculate the slope for every n days per group"
+    },
+    {
+      "tags": [
+        "python",
+        "ftplib"
+      ],
+      "owner": {
+        "account_id": 25243167,
+        "reputation": 1,
+        "user_id": 19076771,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/AATXAJx-cF0cXQ-ODoFUXx0-JND-O46Qbs-7r8eWiniZ=k-s256",
+        "display_name": "Bachir ATMANI",
+        "link": "https://stackoverflow.com/users/19076771/bachir-atmani"
+      },
+      "is_answered": false,
+      "view_count": 44,
+      "answer_count": 0,
+      "score": -1,
+      "last_activity_date": 1665599070,
+      "creation_date": 1665478323,
+      "last_edit_date": 1665599070,
+      "question_id": 74025445,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/74025445/python3-ftplib-ftp-tls-storbinary-timeout-425-error-while-transfering-data",
+      "title": "python3 ftplib.FTP_TLS storbinary() timeout / 425 Error while transfering data"
+    },
+    {
+      "tags": [
+        "python",
+        "numpy"
+      ],
+      "owner": {
+        "account_id": 26535902,
+        "reputation": 21,
+        "user_id": 20167430,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/ACNPEu8w7d7D3ECGFRfNqelv8BLeROSvIoBKOdEniZ1A8Q=k-s256",
+        "display_name": "MONtana9999",
+        "link": "https://stackoverflow.com/users/20167430/montana9999"
+      },
+      "is_answered": false,
+      "view_count": 25,
+      "answer_count": 3,
+      "score": 2,
+      "last_activity_date": 1665598876,
+      "creation_date": 1665582216,
+      "last_edit_date": 1665598876,
+      "question_id": 74042922,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/74042922/how-could-i-add-periodically-a-new-element-to-an-array-so-it-appears-after-every",
+      "title": "How could I add periodically a new element to an array so it appears after every 500th element?"
+    },
+    {
+      "tags": [
+        "python",
+        "locust"
+      ],
+      "owner": {
+        "account_id": 2885553,
+        "reputation": 200,
+        "user_id": 2475562,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/46119b98a4cc49870c6400fe38380d0f?s=256&d=identicon&r=PG&f=1",
+        "display_name": "Prerit Jain",
+        "link": "https://stackoverflow.com/users/2475562/prerit-jain"
+      },
+      "is_answered": false,
+      "view_count": 16,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1665598728,
+      "creation_date": 1665566227,
+      "last_edit_date": 1665598728,
+      "question_id": 74039384,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/74039384/python-http-request-failing-with-zlib-error-error-5-while-decompressing-data",
+      "title": "Python HTTP request failing with zlib.error: Error -5 while decompressing data: incomplete or truncated stream"
+    },
+    {
+      "tags": [
+        "python",
+        "apache-kafka",
+        "apache-kafka-connect",
+        "amazon-kinesis"
+      ],
+      "owner": {
+        "account_id": 946463,
+        "reputation": 1041,
+        "user_id": 973629,
+        "user_type": "registered",
+        "accept_rate": 91,
+        "profile_image": "https://www.gravatar.com/avatar/1386abc9bd66dd2319601b25da0bb2fc?s=256&d=identicon&r=PG",
+        "display_name": "fneron",
+        "link": "https://stackoverflow.com/users/973629/fneron"
+      },
+      "is_answered": true,
+      "view_count": 31,
+      "accepted_answer_id": 74046262,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1665598388,
+      "creation_date": 1665531913,
+      "last_edit_date": 1665589675,
+      "question_id": 74035089,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/74035089/confused-with-encoding-and-decoding-with-kafka-connect",
+      "title": "Confused with encoding and decoding with Kafka connect"
+    },
+    {
+      "tags": [
+        "python",
+        "matrix",
+        "path"
+      ],
+      "owner": {
+        "account_id": 12682093,
+        "reputation": 50,
+        "user_id": 9215367,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d78788a83633548d503b868df4805a9f?s=256&d=identicon&r=PG&f=1",
+        "display_name": "ViridTomb",
+        "link": "https://stackoverflow.com/users/9215367/viridtomb"
+      },
+      "is_answered": false,
+      "view_count": 20,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1665598360,
+      "creation_date": 1665570013,
+      "last_edit_date": 1665598360,
+      "question_id": 74040224,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/74040224/how-to-efficient-find-minimum-distance-away-from-an-obstacle-given-a-start-and-e",
+      "title": "How to efficient find minimum distance away from an obstacle given a start and end point in a grid"
+    },
+    {
+      "tags": [
+        "python",
+        "database"
+      ],
+      "owner": {
+        "account_id": 26514971,
+        "reputation": 1,
+        "user_id": 20149657,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/ACNPEu80HxWc_CDS3JprRK9WrMOtK8henDmmqCrnp54luA=k-s256",
+        "display_name": "Fortran95",
+        "link": "https://stackoverflow.com/users/20149657/fortran95"
+      },
+      "is_answered": false,
+      "view_count": 18,
+      "answer_count": 0,
+      "score": -2,
+      "last_activity_date": 1665598225,
+      "creation_date": 1665581570,
+      "last_edit_date": 1665598225,
+      "question_id": 74042754,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/74042754/how-to-save-a-player-stats-with-replit-databases-python",
+      "title": "How to save a player stats with replit databases (python)?"
+    },
+    {
+      "tags": [
+        "python",
+        "arrays",
+        "numpy",
+        "accumulate"
+      ],
+      "owner": {
+        "account_id": 24143228,
+        "reputation": 75,
+        "user_id": 18109197,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GgRkxL6YNlIcNIMLOMzJxIeakG0_7VqWbsQ97IY=k-s256",
+        "display_name": "Francesco Battisti",
+        "link": "https://stackoverflow.com/users/18109197/francesco-battisti"
+      },
+      "is_answered": false,
+      "view_count": 23,
+      "answer_count": 0,
+      "score": -1,
+      "last_activity_date": 1665598129,
+      "creation_date": 1665564372,
+      "last_edit_date": 1665598129,
+      "question_id": 74038974,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/74038974/unsolved-reset-fmax-accumulate-when-cross-array-python-numpy",
+      "title": "UNSOLVED Reset fmax.accumulate when cross array (Python Numpy)"
+    },
+    {
+      "tags": [
+        "python",
+        "encoding",
+        "uuid",
+        "utf-16",
+        "utf"
+      ],
+      "owner": {
+        "account_id": 1318589,
+        "reputation": 3958,
+        "user_id": 1264920,
+        "user_type": "registered",
+        "accept_rate": 84,
+        "profile_image": "https://www.gravatar.com/avatar/6401cada72e3e86775c409db49e6befb?s=256&d=identicon&r=PG",
+        "display_name": "TPPZ",
+        "link": "https://stackoverflow.com/users/1264920/tppz"
+      },
+      "is_answered": false,
+      "view_count": 27,
+      "answer_count": 2,
+      "score": 0,
+      "last_activity_date": 1665598059,
+      "creation_date": 1665572215,
+      "question_id": 74040705,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/74040705/decode-uuid-4-as-a-python-string",
+      "title": "Decode UUID 4 as a Python string"
+    },
+    {
+      "tags": [
+        "python",
+        "apache-kafka"
+      ],
+      "owner": {
+        "account_id": 11971198,
+        "reputation": 321,
+        "user_id": 8759653,
+        "user_type": "registered",
+        "profile_image": "https://lh5.googleusercontent.com/-CJ3P5obQmpA/AAAAAAAAAAI/AAAAAAAAABI/fHN7KLEi3NE/photo.jpg?sz=256",
+        "display_name": "Andrea Fresa",
+        "link": "https://stackoverflow.com/users/8759653/andrea-fresa"
+      },
+      "is_answered": false,
+      "view_count": 13,
+      "answer_count": 1,
+      "score": 2,
+      "last_activity_date": 1665597781,
+      "creation_date": 1665571503,
+      "question_id": 74040555,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/74040555/kafka-consumer-group-spending-lot-of-time-in-rebalancing",
+      "title": "Kafka consumer group spending lot of time in rebalancing"
+    },
+    {
+      "tags": [
+        "python",
+        "gensim"
+      ],
+      "owner": {
+        "account_id": 26592418,
+        "reputation": 1,
+        "user_id": 20215404,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/a47a07be07a78d4fcbd19130e18d7bf3?s=256&d=identicon&r=PG",
+        "display_name": "jstrick24",
+        "link": "https://stackoverflow.com/users/20215404/jstrick24"
+      },
+      "is_answered": false,
+      "view_count": 19,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1665597738,
+      "creation_date": 1665505595,
+      "last_edit_date": 1665597738,
+      "question_id": 74031281,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/74031281/attributeerror-doc2vec-object-has-no-attribute-dv",
+      "title": "AttributeError: &#39;Doc2Vec&#39; object has no attribute &#39;dv&#39;"
+    },
+    {
+      "tags": [
+        "python",
+        "matplotlib",
+        "scatter-plot"
+      ],
+      "owner": {
+        "account_id": 19968677,
+        "reputation": 55,
+        "user_id": 14634679,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/24faa806ba539d60450904f8a793b1c0?s=256&d=identicon&r=PG&f=1",
+        "display_name": "Hana",
+        "link": "https://stackoverflow.com/users/14634679/hana"
+      },
+      "is_answered": true,
+      "view_count": 25,
+      "answer_count": 1,
+      "score": -1,
+      "last_activity_date": 1665597312,
+      "creation_date": 1665571182,
+      "question_id": 74040468,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/74040468/how-to-know-where-the-arrow-ends-in-matplotlib-quiver",
+      "title": "How to know where the arrow ends in matplotlib quiver"
+    },
+    {
+      "tags": [
+        "python",
+        "class"
+      ],
+      "owner": {
+        "account_id": 13117435,
+        "reputation": 25,
+        "user_id": 10612669,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/VYzdb.jpg?s=256&g=1",
+        "display_name": "michaelgr22",
+        "link": "https://stackoverflow.com/users/10612669/michaelgr22"
+      },
+      "is_answered": true,
+      "view_count": 21,
+      "answer_count": 2,
+      "score": 0,
+      "last_activity_date": 1665597010,
+      "creation_date": 1665580576,
+      "question_id": 74042487,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/74042487/override-a-method-of-a-class-with-an-method-from-another-class",
+      "title": "override a method of a class with an method from another class"
+    },
+    {
+      "tags": [
+        "python",
+        "django"
+      ],
+      "owner": {
+        "account_id": 25451872,
+        "reputation": 5,
+        "user_id": 19253130,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/cfcea3b7b922e4f58df6fe441182cefd?s=256&d=identicon&r=PG",
+        "display_name": "L30N3CH0",
+        "link": "https://stackoverflow.com/users/19253130/l30n3ch0"
+      },
+      "is_answered": true,
+      "view_count": 34,
+      "accepted_answer_id": 74033128,
+      "answer_count": 2,
+      "score": 0,
+      "last_activity_date": 1665596356,
+      "creation_date": 1665513022,
+      "question_id": 74032602,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/74032602/django-in-views-how-can-a-redirect-if-the-paramaterlinked-to-a-url-pattern-do",
+      "title": "Django: in views how can a redirect if the paramater(linked to a url pattern) does not match a model result?"
+    },
+    {
+      "tags": [
+        "python",
+        "regex"
+      ],
+      "owner": {
+        "account_id": 15477947,
+        "reputation": 125,
+        "user_id": 11166155,
+        "user_type": "registered",
+        "profile_image": "https://lh6.googleusercontent.com/-UXm_RwTK4Mw/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfjwFKhsvn4KYl-Y_c-RZ6H9phKQw/mo/photo.jpg?sz=256",
+        "display_name": "Aki",
+        "link": "https://stackoverflow.com/users/11166155/aki"
+      },
+      "is_answered": true,
+      "view_count": 52,
+      "answer_count": 1,
+      "score": 1,
+      "last_activity_date": 1665595943,
+      "creation_date": 1665570842,
+      "question_id": 74040407,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/74040407/changing-object-to-string-in-python",
+      "title": "Changing object to string in python"
+    },
+    {
+      "tags": [
+        "python",
+        "pydantic"
+      ],
+      "owner": {
+        "account_id": 26582475,
+        "reputation": 11,
+        "user_id": 20206923,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d050c4762bd56eb6562a978273913a72?s=256&d=identicon&r=PG",
+        "display_name": "Kenny Davidson",
+        "link": "https://stackoverflow.com/users/20206923/kenny-davidson"
+      },
+      "is_answered": false,
+      "view_count": 14,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1665595761,
+      "creation_date": 1665502054,
+      "last_edit_date": 1665595541,
+      "question_id": 74030554,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/74030554/pydantic-contstructor-using-alias-instead-of-the-field-name",
+      "title": "pydantic contstructor using alias instead of the field name"
+    }
+  ],
+  "has_more": true,
+  "quota_max": 300,
+  "quota_remaining": 297
+}
